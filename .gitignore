@@ -1,0 +1,3 @@
+wordpress/*
+.svn*
+include/db.php
